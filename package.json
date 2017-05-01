@@ -1,0 +1,14 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Barton <tom.r.barton@gmail.com> (http://tombarton.codes)",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0"
+  }
+}
